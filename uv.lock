@@ -1000,9 +1000,9 @@ wheels = [
 name = "chardet"
 version = "5.2.0"
 source = { registry = "https://pypi.tuna.tsinghua.edu.cn/simple" }
-sdist = { url = "https://pypi.tuna.tsinghua.edu.cn/packages/f3/0d/f7b6ab21ec75897ed80c17d79b15951a719226b9fababf1e40ea74d69079/chardet-5.2.0.tar.gz", hash = "sha256:1b3b6ff479a8c414bc3fa2c0852995695c4a026dcd6d0633b2dd092ca39c1cf7" }
+sdist = { url = "https://pypi.tuna.tsinghua.edu.cn/packages/f3/0d/f7b6ab21ec75897ed80c17d79b15951a719226b9fababf1e40ea74d69079/chardet-5.2.0.tar.gz", hash = "sha256:1b3b6ff479a8c414bc3fa2c0852995695c4a026dcd6d0633b2dd092ca39c1cf7", size = 2069618, upload-time = "2023-08-01T19:23:02.662Z" }
 wheels = [
-    { url = "https://pypi.tuna.tsinghua.edu.cn/packages/38/6f/f5fbc992a329ee4e0f288c1fe0e2ad9485ed064cac731ed2fe47dcc38cbf/chardet-5.2.0-py3-none-any.whl", hash = "sha256:e1cf59446890a00105fe7b7912492ea04b6e6f06d4b742b2c788469e34c82970" },
+    { url = "https://pypi.tuna.tsinghua.edu.cn/packages/38/6f/f5fbc992a329ee4e0f288c1fe0e2ad9485ed064cac731ed2fe47dcc38cbf/chardet-5.2.0-py3-none-any.whl", hash = "sha256:e1cf59446890a00105fe7b7912492ea04b6e6f06d4b742b2c788469e34c82970", size = 199385, upload-time = "2023-08-01T19:23:00.661Z" },
 ]
 
 [[package]]
@@ -3920,15 +3920,15 @@ wheels = [
 [[package]]
 name = "mistralai"
 version = "0.4.2"
-source = { registry = "https://pypi.tuna.tsinghua.edu.cn/simple" }
+source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "httpx" },
     { name = "orjson" },
     { name = "pydantic" },
 ]
-sdist = { url = "https://pypi.tuna.tsinghua.edu.cn/packages/fa/20/4204f461588310b3a7ffbbbb7fa573493dc1c8185d376ee72516c04575bf/mistralai-0.4.2.tar.gz", hash = "sha256:5eb656710517168ae053f9847b0bb7f617eda07f1f93f946ad6c91a4d407fd93", size = 14234, upload-time = "2024-07-04T09:22:43.992Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/fa/20/4204f461588310b3a7ffbbbb7fa573493dc1c8185d376ee72516c04575bf/mistralai-0.4.2.tar.gz", hash = "sha256:5eb656710517168ae053f9847b0bb7f617eda07f1f93f946ad6c91a4d407fd93", size = 14234, upload-time = "2024-07-04T09:22:43.992Z" }
 wheels = [
-    { url = "https://pypi.tuna.tsinghua.edu.cn/packages/4f/fe/79dad76b8d94b62d9e2aab8446183190e1dc384c617d06c3c93307850e11/mistralai-0.4.2-py3-none-any.whl", hash = "sha256:63c98eea139585f0a3b2c4c6c09c453738bac3958055e6f2362d3866e96b0168", size = 20334, upload-time = "2024-07-04T09:22:42.211Z" },
+    { url = "https://files.pythonhosted.org/packages/4f/fe/79dad76b8d94b62d9e2aab8446183190e1dc384c617d06c3c93307850e11/mistralai-0.4.2-py3-none-any.whl", hash = "sha256:63c98eea139585f0a3b2c4c6c09c453738bac3958055e6f2362d3866e96b0168", size = 20334, upload-time = "2024-07-04T09:22:42.211Z" },
 ]
 
 [[package]]
@@ -5923,11 +5923,11 @@ wheels = [
 
 [[package]]
 name = "python-multipart"
-version = "0.0.21"
+version = "0.0.31"
 source = { registry = "https://pypi.tuna.tsinghua.edu.cn/simple" }
-sdist = { url = "https://pypi.tuna.tsinghua.edu.cn/packages/78/96/804520d0850c7db98e5ccb70282e29208723f0964e88ffd9d0da2f52ea09/python_multipart-0.0.21.tar.gz", hash = "sha256:7137ebd4d3bbf70ea1622998f902b97a29434a9e8dc40eb203bbcf7c2a2cba92", size = 37196, upload-time = "2025-12-17T09:24:22.446Z" }
+sdist = { url = "https://pypi.tuna.tsinghua.edu.cn/packages/64/7e/9b35ad8f3d9ca680f7c87a88f19612fdd8da9796c4d3b46e560ac79dcc4a/python_multipart-0.0.31.tar.gz", hash = "sha256:fc631183bb13e56db3158a4909908dfb2e23565286744e798241e63750e5d680", size = 46689, upload-time = "2026-06-04T08:27:49.014Z" }
 wheels = [
-    { url = "https://pypi.tuna.tsinghua.edu.cn/packages/aa/76/03af049af4dcee5d27442f71b6924f01f3efb5d2bd34f23fcd563f2cc5f5/python_multipart-0.0.21-py3-none-any.whl", hash = "sha256:cf7a6713e01c87aa35387f4774e812c4361150938d20d232800f75ffcf266090", size = 24541, upload-time = "2025-12-17T09:24:21.153Z" },
+    { url = "https://pypi.tuna.tsinghua.edu.cn/packages/5e/1e/7f7f299527a5a8ad90acd5f2f78dfa6c8495c6301a3205106ea68a84de96/python_multipart-0.0.31-py3-none-any.whl", hash = "sha256:8408153d68a9773291fc1da39a8b85a50044bddbabd2dd72e9229776b7b15e28", size = 29996, upload-time = "2026-06-04T08:27:47.804Z" },
 ]
 
 [[package]]
